@@ -1,5 +1,5 @@
 # SOC Final Project SDRAM
-## Improve SDRAM in Lab#D with burst 
+## Add burst, prefetch and linear address map (bank interleave) to SDRAM
 ### Run iverilog simulation
 ```sh
 cd ~/SOC_Final-Project-SDRAM/testbench/counter_la
